@@ -1,0 +1,86 @@
+{
+    "matriculas": [
+        {
+            "id": 1020329021,
+            "rutina": "VRCONAG",
+            "texto": "7212",
+            "detalle": {
+                "infoMatricula": {
+                    "IdMatricula": "1020329021",
+                    "RazonSocial": "CALAMINAS BOLIVIANAS LTDA. - CALBOL LTDA",
+                    "TipoSocietario": "04",
+                    "FechaInscripcion": "1986-11-21",
+                    "FechaUltRenovacion": "2022-08-30",
+                    "FecVigenciaMatricula": "2024-08-31",
+                    "UltGestionRenovada": "2021",
+                    "Nit": "1020329021",
+                    "Departamento": "LA PAZ",
+                    "Provincia": "MURILLO",
+                    "Municipio": "LA PAZ",
+                    "CalleAv": "AVENIDA SANCHEZ LIMA",
+                    "EntreCalles": "ECUADOR Y ASPIAZU",
+                    "Nro": "2061",
+                    "Uv": "",
+                    "Mza": "",
+                    "Edificio": "ROSARIO",
+                    "Piso": "3",
+                    "NroOficina": "3",
+                    "Zona": "SOPOCACHI",
+                    "CorreoElectronico": "milenkafernandez@hotmail.com",
+                    "Actividad": "FABRICACION    COMERCIALIZACION   IMPORTACION  DE  CALAMINAS  PLANAS YCORRUGADAS DE ACERO GALVANIZADO, EXPORTACION DE SUS PRODUCTOS",
+                    "Telefono": "2416855,65170438",
+                    "ClaseCIIU": "2599",
+                    "CategoriaCAEB": "C",
+                    "TamanoEmpresa": "0.88589",
+                    "CtrEstado": "1",
+                    "MatriculaDatosSucList1": {
+                        "MatriculaDatosSuc": []
+                    }
+                }
+            },
+            "cantidad": "1",
+            "error": "0000"
+        },
+        {
+            "id": 1,
+            "rutina": "VRCONAG",
+            "texto": "7212",
+            "detalle": {
+                "infoMatricula": {
+                    "IdMatricula": "1020329021",
+                    "RazonSocial": "1CALAMINAS BOLIVIANAS LTDA. - CALBOL LTDA",
+                    "TipoSocietario": "04",
+                    "FechaInscripcion": "1986-11-21",
+                    "FechaUltRenovacion": "2022-08-30",
+                    "FecVigenciaMatricula": "2024-08-31",
+                    "UltGestionRenovada": "2021",
+                    "Nit": "1020329021",
+                    "Departamento": "LA PAZ",
+                    "Provincia": "MURILLO",
+                    "Municipio": "LA PAZ",
+                    "CalleAv": "AVENIDA SANCHEZ LIMA",
+                    "EntreCalles": "ECUADOR Y ASPIAZU",
+                    "Nro": "2061",
+                    "Uv": "",
+                    "Mza": "",
+                    "Edificio": "ROSARIO",
+                    "Piso": "3",
+                    "NroOficina": "3",
+                    "Zona": "SOPOCACHI",
+                    "CorreoElectronico": "milenkafernandez@hotmail.com",
+                    "Actividad": "FABRICACION    COMERCIALIZACION   IMPORTACION  DE  CALAMINAS  PLANAS YCORRUGADAS DE ACERO GALVANIZADO, EXPORTACION DE SUS PRODUCTOS",
+                    "Telefono": "2416855,65170438",
+                    "ClaseCIIU": "2599",
+                    "CategoriaCAEB": "C",
+                    "TamanoEmpresa": "0.88589",
+                    "CtrEstado": "1",
+                    "MatriculaDatosSucList1": {
+                        "MatriculaDatosSuc": []
+                    }
+                }
+            },
+            "cantidad": "1",
+            "error": "0000"
+        }
+    ]
+}
