@@ -82,5 +82,34 @@
             "cantidad": "1",
             "error": "0000"
         }
+    ],
+    "representantes": [
+        {
+            "id": 1,
+            "matricula_id":1,
+            "rutina": "VRCONAG",
+            "texto": "00377637",
+            "detalle": {
+                "Representantes": {
+                    "IdMatricula": 12983771017,
+                    "Representante": [
+                        {
+                            "NombreVinculo": "NAVA JUSTINIANO NAOMI",
+                            "NumId": "12983771",
+                            "IdClase": "1",
+                            "FecRegistro": "2017-11-03",
+                            "NumDoc": "-",
+                            "FecDocumento": " ",
+                            "NoticiaDocumento": "INSCRIPCION DE COMERCIANTE INDIVIDUAL",
+                            "TipoVinculo": "PROPIETARIO",
+                            "IdLibro": "80",
+                            "NumReg": "458227"
+                        }
+                    ]
+                }
+            },
+            "cantidad": "1",
+            "error": "0000"
+        }
     ]
 }
