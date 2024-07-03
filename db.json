@@ -122,6 +122,48 @@
             },
             "cantidad": "1",
             "error": "0000"
+        },
+        {
+            "id": 8334258012,
+            "rutina": "VRCONAG",
+            "texto": "8334258012",
+            "detalle": {
+                "infoMatricula": {
+                    "IdMatricula": "8334258012",
+                    "RazonSocial": " INDATA",
+                    "TipoSocietario": "01",
+                    "FechaInscripcion": "2022-08-19",
+                    "FechaUltRenovacion": "2022-08-19",
+                    "FecVigenciaMatricula": "2024-05-31",
+                    "UltGestionRenovada": "2022",
+                    "Nit": "8334258012",
+                    "Departamento": "LA PAZ",
+                    "Provincia": "MURILLO",
+                    "Municipio": "LA PAZ",
+                    "CalleAv": "MARIO MERCADO ",
+                    "EntreCalles": "AL FRENTE DE PA POSTA LLOJETA  DE LA ALCALDIA DE LA ZONA ",
+                    "Nro": "100",
+                    "Uv": "",
+                    "Mza": "",
+                    "Edificio": "",
+                    "Piso": "",
+                    "NroOficina": "",
+                    "Zona": "BAJO LLOJETA",
+                    "CorreoElectronico": "checkauditbolivia@gmail.com",
+                    "Actividad": "PROVEER CON ATENCIÓN Y DESARROLLO DE PROTOCOLOS ESPECIALIZADOS EN MARKETING DIGITAL Y OPERACIONES DE\nDESARROLLO CORPORATIVO A NIVEL NACIONAL E INTERNACIONAL; MEJORANDO EL POSICIONAMIENTO DE LAS\nCOMPAÑÍAS Y PRODUCTOS CON LOS CUALES SE TRABAJE, BUSCANDO NUEVAS ESTRATEGIAS PARA MEJORAR SU\nPRESENCIA A NIVEL FÍSICO COMO DIGITAL ESTO SE LOGRARÁ REALIZANDO INVESTIGACIONES DE MERCADO PRIMARIAS\nY SECUNDARIAS DONDE NUESTROS CLIENTES LO REQUIERAN LOS SERVICIOS Y FUNCIONES A PROVEER SERÁN, PERO NO\nESTÁN LIMITADOS A: SERVICIOS DE DESARROLLO PARA AMAZON POSTS, DISEÑO DE MARCAS COMERCIALES,\nEMPODERAMIENTO DE MARCAS COMERCIALES, DISEÑO DE PRODUCTOS Y RETROALIMENTACIÓN SEGUIMIENTO DE\nMENSAJERÍA ALREDEDOR DE LOS PRODUCTOS Y COMPAÑÍAS ASOCIADOS MERCADEO Y MERCADOTECNIA DIGITAL,\nDISEÑO DE PAGINAS WEB",
+                    "Telefono": "2417711,77264923,70653112",
+                    "ClaseCIIU": "73200",
+                    "CategoriaCAEB": "M",
+                    "TamanoEmpresa": "0.00000",
+                    "Cierre_Gestion": "4",
+                    "CtrEstado": "1",
+                    "MatriculaDatosSucList1": {
+                        "MatriculaDatosSuc": []
+                    }
+                }
+            },
+            "cantidad": "1",
+            "error": "0000"
         }
     ],
     "representantes": [
@@ -199,6 +241,33 @@
                             "TipoVinculo": "PROPIETARIO",
                             "IdLibro": "80",
                             "NumReg": "458227"
+                        }
+                    ]
+                }
+            },
+            "cantidad": "1",
+            "error": "0000"
+        },
+        {
+            "id": 4,
+            "matricula_id": 8334258012,
+            "rutina": "VRCONAG",
+            "texto": "8334258012",
+            "detalle": {
+                "Representantes": {
+                    "IdMatricula": "8334258012",
+                    "Representante": [
+                        {
+                            "NombreVinculo": "HUANCA PACO FABIANA RAQUEL",
+                            "NumId": "8334258",
+                            "IdClase": "1",
+                            "FecRegistro": "2022-08-19",
+                            "NumDoc": "-",
+                            "FecDocumento": " ",
+                            "NoticiaDocumento": "INSCRIPCION DE COMERCIANTE INDIVIDUAL",
+                            "TipoVinculo": "PROPIETARIO",
+                            "IdLibro": "80",
+                            "NumReg": "629857"
                         }
                     ]
                 }
