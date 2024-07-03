@@ -164,6 +164,132 @@
             },
             "cantidad": "1",
             "error": "0000"
+        },
+        {
+            "id": 373578022,
+            "rutina": "VRCONAG",
+            "texto": "373578022",
+            "detalle": {
+                "infoMatricula": {
+                    "IdMatricula": "373578022",
+                    "RazonSocial": "ADATAVERA S.R.L.",
+                    "TipoSocietario": "04",
+                    "FechaInscripcion": "2018-12-13",
+                    "FechaUltRenovacion": "2022-06-30",
+                    "FecVigenciaMatricula": "2024-05-31",
+                    "UltGestionRenovada": "2021",
+                    "Nit": "373578022",
+                    "Departamento": "SANTA CRUZ",
+                    "Provincia": "ANDRES IBAÑEZ",
+                    "Municipio": "SANTA CRUZ DE LA SIERRA",
+                    "CalleAv": " URBARI UV:029 MZA:077",
+                    "EntreCalles": "CALLE URBARI ENTRE SEGUNDO Y TERCER ANILLO",
+                    "Nro": "2",
+                    "Uv": "",
+                    "Mza": "",
+                    "Edificio": "",
+                    "Piso": "",
+                    "NroOficina": "",
+                    "Zona": "CENTRAL",
+                    "CorreoElectronico": "info@agenciatavera.com",
+                    "Actividad": "DESPACHOS ADUANEROS Y GESTIONES INHERENTES A OPERACIONES DE COMERCIO EXTERIOR",
+                    "Telefono": "77393179,77393179",
+                    "ClaseCIIU": "52292",
+                    "CategoriaCAEB": "H",
+                    "TamanoEmpresa": "0.00000",
+                    "Cierre_Gestion": "4",
+                    "CtrEstado": "1",
+                    "MatriculaDatosSucList1": {
+                        "MatriculaDatosSuc": []
+                    }
+                }
+            },
+            "cantidad": "1",
+            "error": "0000"
+        },
+        {
+            "id": 409154022,
+            "rutina": "VRCONAG",
+            "texto": "409154022",
+            "detalle": {
+                "infoMatricula": {
+                    "IdMatricula": "409154022",
+                    "RazonSocial": "AGROBIGDATA S.R.L.",
+                    "TipoSocietario": "04",
+                    "FechaInscripcion": "2020-10-19",
+                    "FechaUltRenovacion": "2022-06-13",
+                    "FecVigenciaMatricula": "2024-05-31",
+                    "UltGestionRenovada": "2021",
+                    "Nit": "409154022",
+                    "Departamento": "SANTA CRUZ",
+                    "Provincia": "ANDRES IBAÑEZ",
+                    "Municipio": "SANTA CRUZ DE LA SIERRA",
+                    "CalleAv": "NUEVA UNION",
+                    "EntreCalles": "FRENTE ENTRADA PRINCIPAL NUEVA ABASTO",
+                    "Nro": "260",
+                    "Uv": "",
+                    "Mza": "",
+                    "Edificio": "CAMPO VERDE",
+                    "Piso": "",
+                    "NroOficina": "",
+                    "Zona": "NUEVA ABASTO",
+                    "CorreoElectronico": "carlosmontanoavalos@gmail.com",
+                    "Actividad": "VENTA, COMERCIALIZACION, DISTRIBUCION DE INSUMOS AGRICOLAS, FERTILIZANTES, SEMILLAS Y AGRICULTURA DE PRECISION",
+                    "Telefono": "3536577",
+                    "ClaseCIIU": "46692",
+                    "CategoriaCAEB": "G",
+                    "TamanoEmpresa": "0.00000",
+                    "Cierre_Gestion": "4",
+                    "CtrEstado": "1",
+                    "MatriculaDatosSucList1": {
+                        "MatriculaDatosSuc": []
+                    }
+                }
+            },
+            "cantidad": "1",
+            "error": "0000"
+        },
+        {
+            "id": 303370024,
+            "rutina": "VRCONAG",
+            "texto": "303370024",
+            "detalle": {
+                "infoMatricula": {
+                    "IdMatricula": "303370024",
+                    "RazonSocial": "BOLDATASAT TECHNOLOGIES S.R.L.",
+                    "TipoSocietario": "04",
+                    "FechaInscripcion": "2015-04-06",
+                    "FechaUltRenovacion": "2022-06-30",
+                    "FecVigenciaMatricula": "2024-05-31",
+                    "UltGestionRenovada": "2021",
+                    "Nit": "303370024",
+                    "Departamento": "LA PAZ",
+                    "Provincia": "MURILLO",
+                    "Municipio": "LA PAZ",
+                    "CalleAv": "C/JUAN MANUEL LOZA",
+                    "EntreCalles": "",
+                    "Nro": "777",
+                    "Uv": "",
+                    "Mza": "",
+                    "Edificio": "",
+                    "Piso": "1",
+                    "NroOficina": "1",
+                    "Zona": "MIRAFLORES",
+                    "CorreoElectronico": "mariejimenezg@gmail.com",
+                    "Actividad": "REDES  DE TELECOMUNICAIONES Y PROCESAMIEN TO DE DATOS E IMPORTACION DEBIENES AL P OR MAYOR DE EQUIPOS DE TELECOMUNICACIONES",
+                    "Telefono": "2198895,71534625",
+                    "ClaseCIIU": "6311",
+                    "CategoriaCAEB": "J",
+                    "TamanoEmpresa": "0.00000",
+                    "Cierre_Gestion": "4",
+                    "CtrEstado": "1",
+                    "MatriculaDatosSucList1": {
+                        "MatriculaDatosSuc": []
+                    }
+                }
+            },
+            "cantidad": "1",
+            "error": "0000"
         }
     ],
     "representantes": [
@@ -268,6 +394,87 @@
                             "TipoVinculo": "PROPIETARIO",
                             "IdLibro": "80",
                             "NumReg": "629857"
+                        }
+                    ]
+                }
+            },
+            "cantidad": "1",
+            "error": "0000"
+        },
+        {
+            "id": 5,
+            "matricula_id": 373578022,
+            "rutina": "VRCONAG",
+            "texto": "373578022",
+            "detalle": {
+                "Representantes": {
+                    "IdMatricula": "373578022",
+                    "Representante": [
+                        {
+                            "NombreVinculo": "TORREZ CALDERON HUMBERTO MAX",
+                            "NumId": "2700618",
+                            "IdClase": "1",
+                            "FecRegistro": "2019-08-12",
+                            "NumDoc": "0185/19",
+                            "FecDocumento": "2019-08-08",
+                            "NoticiaDocumento": "REVOCATORIA DE LOS PODERES 268/2018 Y 172/2019 Y OTORGAMIENTO DE NUEVO PODER GENERAL DE ADMINISTRACION Y REPRESENTACION A FAVOR DE HUMBERTO MAX TORREZ CALDERON",
+                            "TipoVinculo": "REPRESENTANTE LEGAL",
+                            "IdLibro": "13",
+                            "NumReg": "246306"
+                        }
+                    ]
+                }
+            },
+            "cantidad": "1",
+            "error": "0000"
+        },
+        {
+            "id": 6,
+            "matricula_id": 409154022,
+            "rutina": "VRCONAG",
+            "texto": "409154022",
+            "detalle": {
+                "Representantes": {
+                    "IdMatricula": "409154022",
+                    "Representante": [
+                        {
+                            "NombreVinculo": "MONTAÑO AVALOS CARLOS JAVIER",
+                            "NumId": "8984707",
+                            "IdClase": "1",
+                            "FecRegistro": "2021-09-23",
+                            "NumDoc": "0289/21",
+                            "FecDocumento": "2021-06-01",
+                            "NoticiaDocumento": "TESTIMONIO DE REVOCATORIA DE PODER  377/2020 Y OTORGAMIENTO DE PODER GENERAL DE ADMINISTRACION Y REPRESENTAION LEGAL OTORGADO A FAVOR DE CARLOS JAVIER MONTAÑO AVALOS",
+                            "TipoVinculo": "REPRESENTANTE LEGAL",
+                            "IdLibro": "13",
+                            "NumReg": "278510"
+                        }
+                    ]
+                }
+            },
+            "cantidad": "1",
+            "error": "0000"
+        },
+        {
+            "id": 7,
+            "matricula_id": 303370024,
+            "rutina": "VRCONAG",
+            "texto": "303370024",
+            "detalle": {
+                "Representantes": {
+                    "IdMatricula": "303370024",
+                    "Representante": [
+                        {
+                            "NombreVinculo": "JIMENEZ GUTIERREZ CARLA DANIELA",
+                            "NumId": "4882233",
+                            "IdClase": "1",
+                            "FecRegistro": "2015-04-06",
+                            "NumDoc": "0204/15",
+                            "FecDocumento": "2015-02-11",
+                            "NoticiaDocumento": "TESTIMONIO DE PODER GENERAL AMPLIO Y SUFICIENTE DE ADMINISTRACION EN FAVOR DE LA SRA. CARLA DANIELA JIMENEZ GUTIERREZ",
+                            "TipoVinculo": "REPRESENTANTE LEGAL",
+                            "IdLibro": "13",
+                            "NumReg": "170279"
                         }
                     ]
                 }
