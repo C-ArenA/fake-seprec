@@ -381,7 +381,7 @@
             "texto": "8334258012",
             "detalle": {
                 "Representantes": {
-                    "IdMatricula": "8334258012",
+                    "IdMatricula": 8334258012,
                     "Representante": [
                         {
                             "NombreVinculo": "HUANCA PACO FABIANA RAQUEL",
@@ -408,7 +408,7 @@
             "texto": "373578022",
             "detalle": {
                 "Representantes": {
-                    "IdMatricula": "373578022",
+                    "IdMatricula": 373578022,
                     "Representante": [
                         {
                             "NombreVinculo": "TORREZ CALDERON HUMBERTO MAX",
@@ -435,7 +435,7 @@
             "texto": "409154022",
             "detalle": {
                 "Representantes": {
-                    "IdMatricula": "409154022",
+                    "IdMatricula": 409154022,
                     "Representante": [
                         {
                             "NombreVinculo": "MONTAÑO AVALOS CARLOS JAVIER",
@@ -462,7 +462,7 @@
             "texto": "303370024",
             "detalle": {
                 "Representantes": {
-                    "IdMatricula": "303370024",
+                    "IdMatricula": 303370024,
                     "Representante": [
                         {
                             "NombreVinculo": "JIMENEZ GUTIERREZ CARLA DANIELA",
