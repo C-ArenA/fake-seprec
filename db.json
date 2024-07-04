@@ -248,48 +248,6 @@
             },
             "cantidad": "1",
             "error": "0000"
-        },
-        {
-            "id": 303370024,
-            "rutina": "VRCONAG",
-            "texto": "303370024",
-            "detalle": {
-                "infoMatricula": {
-                    "IdMatricula": "303370024",
-                    "RazonSocial": "BOLDATASAT TECHNOLOGIES S.R.L.",
-                    "TipoSocietario": "04",
-                    "FechaInscripcion": "2015-04-06",
-                    "FechaUltRenovacion": "2022-06-30",
-                    "FecVigenciaMatricula": "2024-05-31",
-                    "UltGestionRenovada": "2021",
-                    "Nit": "303370024",
-                    "Departamento": "LA PAZ",
-                    "Provincia": "MURILLO",
-                    "Municipio": "LA PAZ",
-                    "CalleAv": "C/JUAN MANUEL LOZA",
-                    "EntreCalles": "",
-                    "Nro": "777",
-                    "Uv": "",
-                    "Mza": "",
-                    "Edificio": "",
-                    "Piso": "1",
-                    "NroOficina": "1",
-                    "Zona": "MIRAFLORES",
-                    "CorreoElectronico": "mariejimenezg@gmail.com",
-                    "Actividad": "REDES  DE TELECOMUNICAIONES Y PROCESAMIEN TO DE DATOS E IMPORTACION DEBIENES AL P OR MAYOR DE EQUIPOS DE TELECOMUNICACIONES",
-                    "Telefono": "2198895,71534625",
-                    "ClaseCIIU": "6311",
-                    "CategoriaCAEB": "J",
-                    "TamanoEmpresa": "0.00000",
-                    "Cierre_Gestion": "4",
-                    "CtrEstado": "1",
-                    "MatriculaDatosSucList1": {
-                        "MatriculaDatosSuc": []
-                    }
-                }
-            },
-            "cantidad": "1",
-            "error": "0000"
         }
     ],
     "representantes": [
@@ -448,33 +406,6 @@
                             "TipoVinculo": "REPRESENTANTE LEGAL",
                             "IdLibro": "13",
                             "NumReg": "278510"
-                        }
-                    ]
-                }
-            },
-            "cantidad": "1",
-            "error": "0000"
-        },
-        {
-            "id": 7,
-            "matricula_id": 303370024,
-            "rutina": "VRCONAG",
-            "texto": "303370024",
-            "detalle": {
-                "Representantes": {
-                    "IdMatricula": 303370024,
-                    "Representante": [
-                        {
-                            "NombreVinculo": "JIMENEZ GUTIERREZ CARLA DANIELA",
-                            "NumId": "4882233",
-                            "IdClase": "1",
-                            "FecRegistro": "2015-04-06",
-                            "NumDoc": "0204/15",
-                            "FecDocumento": "2015-02-11",
-                            "NoticiaDocumento": "TESTIMONIO DE PODER GENERAL AMPLIO Y SUFICIENTE DE ADMINISTRACION EN FAVOR DE LA SRA. CARLA DANIELA JIMENEZ GUTIERREZ",
-                            "TipoVinculo": "REPRESENTANTE LEGAL",
-                            "IdLibro": "13",
-                            "NumReg": "170279"
                         }
                     ]
                 }
